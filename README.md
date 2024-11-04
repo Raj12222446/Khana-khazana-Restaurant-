@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+Deployed link: {}{https://khaanakhazanaa.netlify.app/}
 <!--
 **Raj12222446/Raj12222446** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
